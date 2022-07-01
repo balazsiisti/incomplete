@@ -18,3 +18,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.flip-clock {
+  @apply text-white bg-black rounded-xl p-6 m-5 w-72 h-72 flex justify-center items-center;
+  font-size: 13rem;
+}
